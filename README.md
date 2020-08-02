@@ -19,12 +19,10 @@
   
   
   
-  <div>
+  <a href="https://velog.io/@dltjdwls100">
     <img src="https://static.velog.io/favicon.ico" alt="Tech Blog" width="20" />
-    <span>https://velog.io/@dltjdwls100</span>
-  </div>
-  
-  ![velog.io/@dltjdwls100](https://static.velog.io/favicon.ico)
+    <span>Tech Blog</span>
+  </a>
   
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100011423548102)](https://www.facebook.com/profile.php?id=100011423548102)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltjdqhr55@gmail.com)](mailto:dltjdqhr55@gmail.com)
