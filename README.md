@@ -16,15 +16,7 @@
 - Reading, Writing
 
 <div align=center>
-  
-  
-  
-  
-  <a href="https://velog.io/@dltjdwls100">
-    <img src="https://static.velog.io/favicon.ico" alt="Tech Blog" width="20" />
-    <span>Tech Blog</span>
-  </a>
-  
+
   [![velog.io/favicon.ico](https://static.velog.io/favicon.ico)](https://velog.io/@dltjdwls100)
   
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://https://www.facebook.com/profile.php?id=100011423548102)](https://www.facebook.com/profile.php?id=100011423548102)
