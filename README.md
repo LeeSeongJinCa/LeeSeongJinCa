@@ -5,8 +5,9 @@
 </div>
 
 ### Web Front End Engineer
-- Highschool Student Web Front-End Developer 🧐 (Daedeok Software Meister High School In Korea 😮)
-- I like React 😍 and Typescript 😎 that improve my code quality.
+- Highschool Student Web Front-End Developer. 🧐 (Daedeok Software Meister High School In Korea 😮)
+- I like React 😍 and Typescript 😎.
+- I'm always thinking about improving my code quality and UI/UX.
 
 ### Interest
 - ReactJS
