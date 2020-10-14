@@ -12,7 +12,8 @@
 ### Interest
 - ReactJS
 - Typescript
-- Three.js (Library to help 3d scene, currently)
+- Svelte (Javascript Compiler, currently)
+- Three.js (Library to help 3d scene)
 - Algorithm
 - Reading, Writing
 
