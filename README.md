@@ -25,3 +25,6 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltjdqhr55@gmail.com)](mailto:dltjdqhr55@gmail.com)
 
 </div>
+
+![LeeSeongJinCa's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeongJinCa&show_icons=true)
+[![LeeSeongJinCa's github top language card](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeongJinCa&layout=compact&theme=gradient)](https://github.com/LeeSeongJinCa)
