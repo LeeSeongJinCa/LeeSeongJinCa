@@ -12,7 +12,7 @@
 ### Interest
   - [ReactJS](https://reactjs.org/)
   - [Typescript](https://www.typescriptlang.org/)
-  - (Svelte (Javascript Compiler, currently))[https://svelte.dev/]
+  - [Svelte (Javascript Compiler, currently)](https://svelte.dev/)
   - [Three.js (Library to help 3d scene)](https://threejs.org/)
   - Algorithm
   - Reading, Writing
