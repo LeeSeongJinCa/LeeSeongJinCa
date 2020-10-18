@@ -10,12 +10,12 @@
 - I'm always thinking about improving my code quality and UI/UX.
 
 ### Interest
-- ReactJS
-- Typescript
-- Svelte (Javascript Compiler, currently)
-- Three.js (Library to help 3d scene)
-- Algorithm
-- Reading, Writing
+  - [ReactJS](https://reactjs.org/)
+  - [Typescript](https://www.typescriptlang.org/)
+  - (Svelte (Javascript Compiler, currently)[https://svelte.dev/]
+  - [Three.js (Library to help 3d scene)](https://threejs.org/)
+  - Algorithm
+  - Reading, Writing
 
 <div align=center>
 
