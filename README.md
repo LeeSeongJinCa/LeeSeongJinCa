@@ -12,7 +12,7 @@
 ### Interest
   - [ReactJS](https://reactjs.org/)
   - [Typescript](https://www.typescriptlang.org/)
-  - [Svelte (Javascript Compiler, currently)](https://svelte.dev/)
+  - [Svelte](https://svelte.dev/)
   - [VueJS](https://vuejs.org/)
   - [React Native](https://reactnative.dev/)
   - [Three.js (Library to help 3d scene)](https://threejs.org/)
