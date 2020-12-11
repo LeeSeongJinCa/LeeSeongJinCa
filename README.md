@@ -9,7 +9,7 @@
 - I like React 😍 and Typescript 😎.
 - I'm always thinking about improving my code quality and UI/UX.
 
-### Interest
+### Interest 😆  
   - [ReactJS](https://reactjs.org/)
   - [Typescript](https://www.typescriptlang.org/)
   - [Svelte](https://svelte.dev/)
@@ -19,15 +19,8 @@
   - Algorithm
   - Reading, Writing
   
-### Want
-  - Next
-  - Recoil
-  - MobX
-  - Emotion, StoryBook
-  - TDD
-  - SEO
-  - WebRTC
-  - Atomic Design
+### Want More
+  - Next, Recoil, MobX, Emotion, StoryBook, TDD, SEO, WebRTC, Atomic Design
 
 <div align=center>
 
