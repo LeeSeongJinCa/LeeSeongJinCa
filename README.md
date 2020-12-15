@@ -4,7 +4,9 @@
 
 </div>
 
-### Web Front End Engineer ![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm LeeSeongJin
+
+### Web Front End Engineer 
 - Highschool Student Web Front-End Developer. 🧐 (Daedeok Software Meister High School In Korea 😮)
 - I like React 😍 and Typescript 😎.
 - I'm always thinking about improving my code quality and UI/UX.
