@@ -31,5 +31,7 @@
 
 </div>
 
+<embed src="https://wakatime.com/share/@LeeSeongJinCa/5db07ec7-dfc0-4c3c-8101-cd06bb4497b8.svg"></embed>
+
 ![LeeSeongJinCa's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeongJinCa&show_icons=true)
 [![LeeSeongJinCa's github top language card](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeongJinCa&layout=compact&theme=gradient)](https://github.com/LeeSeongJinCa)
