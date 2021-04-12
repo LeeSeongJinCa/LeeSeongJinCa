@@ -1,6 +1,8 @@
 <div align=center>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LeeSeongJinCa)](https://hits.seeyoufarm.com) 
+  [![Github Followers](https://img.shields.io/github/followers/leeseongjinca?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/leeseongjinca?tab=followers)
+
 
 </div>
 
@@ -33,5 +35,5 @@
 
 </div>
 
-![LeeSeongJinCa's github stats](https://github-readme-stats.vercel.app/api?username=LeeSeongJinCa&show_icons=true)
-[![LeeSeongJinCa's github top language card](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeSeongJinCa&layout=compact&theme=gradient)](https://github.com/LeeSeongJinCa)
+[![LeeSeongJinCa's github stats](https://github-readme-stats.vercel.app/api?username=leeseongjinca&show_icons=true&hide_border=true)](https://github.com/leeseongjinca)
+[![LeeSeongJinCa's github top language card](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseongjinca&hide_border=true&layout=compact)](https://github.com/leeseongjinca)
