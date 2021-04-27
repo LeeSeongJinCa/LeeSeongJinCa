@@ -20,11 +20,12 @@
   - [VueJS](https://vuejs.org/)
   - [React Native](https://reactnative.dev/)
   - [Three.js (Library to help 3d scene)](https://threejs.org/)
+  - [NextJS](https://nextjs.org/)
   - Algorithm
   - Reading, Writing
   
 ### Want More
-  - Next, Recoil, MobX, Emotion, StoryBook, TDD, SEO, WebRTC, Atomic Design
+  - Recoil, MobX, Emotion, StoryBook, TDD, SEO, WebRTC, Atomic Design
 
 <div align=center>
 
