@@ -38,3 +38,4 @@
 
 [![LeeSeongJinCa's github stats](https://github-readme-stats.vercel.app/api?username=leeseongjinca&show_icons=true&hide_border=true)](https://github.com/leeseongjinca)
 [![LeeSeongJinCa's github top language card](https://github-readme-stats.vercel.app/api/top-langs/?username=leeseongjinca&hide_border=true&layout=compact)](https://github.com/leeseongjinca)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=leeseongjinca)](https://github.com/leeseongjinca)
