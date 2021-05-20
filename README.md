@@ -6,9 +6,17 @@
   [![Github Followers](https://img.shields.io/github/followers/leeseongjinca?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/leeseongjinca?tab=followers)
   
   
-  [![velog.io/favicon.ico](https://static.velog.io/favicon.ico)](https://velog.io/@dltjdwls100)
-  [안녕하세요! 이력서는 여기입니다!](https://www.notion.so/2ecdbc2d7310415abc019400cfde8da4)
-  [안녕하세요! 포트폴리오는 여기입니다!](https://www.notion.so/5ed139bdb2514ffb95ff88263f745a64)
+  <a href="https://static.velog.io/favicon.ico">
+    <img src="https://static.velog.io/favicon.ico" alt="Velog Badge" style="max-width:100%;">
+  </a>
+  
+  <p>
+    <a href="https://www.notion.so/2ecdbc2d7310415abc019400cfde8da4">안녕하세요! 이력서는 여기입니다!</a>
+  </p>
+  
+  <p>
+    <a href="https://www.notion.so/5ed139bdb2514ffb95ff88263f745a64">안녕하세요! 포트폴리오 여기입니다!</a>
+  </p>
 
 </div>
 
