@@ -6,8 +6,9 @@
   [![Github Followers](https://img.shields.io/github/followers/leeseongjinca?color=06d6a0&label=Github%20Followers&style=for-the-badge)](https://github.com/leeseongjinca?tab=followers)
   
   
-  <a href="https://static.velog.io/favicon.ico">
-    <img src="https://static.velog.io/favicon.ico" alt="Velog Badge" style="max-width:100%;">
+  <a href="https://static.velog.io/favicon.ico" style="background-color: #1fc996;">
+    <img src="https://static.velog.io/favicon.ico" alt="Velog Badge" style="width: 14px; height: 14px;">
+    <span>Blog</span>
   </a>
   
   <p>
