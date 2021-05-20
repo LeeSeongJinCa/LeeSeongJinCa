@@ -16,7 +16,7 @@
     <a href="https://www.notion.so/5ed139bdb2514ffb95ff88263f745a64">안녕하세요! 포트폴리오 여기입니다!</a>
   </p>
   <p>
-    <a href="https://www.notion.so/5ed139bdb2514ffb95ff88263f745a64">Hello! Here's portfolio.</a>
+    <a href="https://www.notion.so/5ed139bdb2514ffb95ff88263f745a64">Hello! Here's portfolio!</a>
   </p>
 
 </div>
