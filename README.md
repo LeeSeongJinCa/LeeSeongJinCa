@@ -24,6 +24,13 @@
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=leeseongjinca)](https://github.com/leeseongjinca)
 
 <div align=center>
+  
+  <p>
+    <a href="https://www.notion.so/2ecdbc2d7310415abc019400cfde8da4">안녕하세요! 이력서는 여기입니다!</a>
+  </p>
+  <p>
+    <a href="https://www.notion.so/5ed139bdb2514ffb95ff88263f745a64">안녕하세요! 포트폴리오 여기입니다!</a>
+  </p>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LeeSeongJinCa)](https://hits.seeyoufarm.com) 
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltjdqhr55@gmail.com)](mailto:dltjdqhr55@gmail.com)
@@ -32,18 +39,5 @@
   <a href="https://velog.io/@dltjdwls100" target="_blank">
     <img src="https://static.velog.io/favicon.ico" alt="Blog, Velog" />
   </a>
-    
-  <p>
-    <a href="https://www.notion.so/2ecdbc2d7310415abc019400cfde8da4">안녕하세요! 이력서는 여기입니다!</a>
-  </p>
-  <p>
-    <a href="https://www.notion.so/2ecdbc2d7310415abc019400cfde8da4">Hello! Here's resume!</a>
-  </p>
-  <p>
-    <a href="https://www.notion.so/5ed139bdb2514ffb95ff88263f745a64">안녕하세요! 포트폴리오 여기입니다!</a>
-  </p>
-  <p>
-    <a href="https://www.notion.so/5ed139bdb2514ffb95ff88263f745a64">Hello! Here's portfolio!</a>
-  </p>
-
+  
 </div>
