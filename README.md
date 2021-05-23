@@ -36,8 +36,5 @@
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltjdqhr55@gmail.com)](mailto:dltjdqhr55@gmail.com)
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/leeseongjinca)](https://www.facebook.com/leeseongjinca)
   [![GitHub followers](https://img.shields.io/github/followers/leeseongjinca?style=social&label=Follow&maxAge=2592000)](https://github.com/leeseongjinca?tab=followers)
-  <a href="https://velog.io/@dltjdwls100" target="_blank">
-    <img src="https://static.velog.io/favicon.ico" alt="Blog, Velog" />
-  </a>
   
 </div>
