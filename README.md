@@ -25,13 +25,6 @@
 
 <div align=center>
   
-  <p>
-    <a href="https://www.notion.so/2ecdbc2d7310415abc019400cfde8da4">안녕하세요! 이력서는 여기입니다!</a>
-  </p>
-  <p>
-    <a href="https://www.notion.so/5ed139bdb2514ffb95ff88263f745a64">안녕하세요! 포트폴리오 여기입니다!</a>
-  </p>
-
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/LeeSeongJinCa)](https://hits.seeyoufarm.com) 
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dltjdqhr55@gmail.com)](mailto:dltjdqhr55@gmail.com)
   [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/leeseongjinca)](https://www.facebook.com/leeseongjinca)
